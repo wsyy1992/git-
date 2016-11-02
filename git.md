@@ -1,7 +1,7 @@
 #Git
-1.git config --gloable user.name "name" 设置全局用户名
+1.git config --global user.name "name" 设置全局用户名
 
-2.git config --gloable user.email "email"  设置全局用户邮箱
+2.git config --global user.email "email"  设置全局用户邮箱
 
 3.mkdir <file name> 创建文件夹
 
